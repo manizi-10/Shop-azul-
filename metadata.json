@@ -1,0 +1,7 @@
+{
+  "name": "Shop Azul",
+  "description": "Marketplace completo para Moçambique: compre e venda produtos, gerencie lojas, estoque, pedidos, entregas e pagamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
